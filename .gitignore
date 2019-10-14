@@ -1,0 +1,6 @@
+# Project A
+ProyectoA/backup
+ProyectoA/src/*.o
+ProyectoA/src/bootload
+ProyectoA/src/kernel
+ProyectoA/src/bochsout.txt
