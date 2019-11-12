@@ -5,3 +5,9 @@ ProjectA/src/bootload
 ProjectA/src/kernel
 ProjectA/src/bochsout.txt
 ProjectA/21711267_ProyectoA.zip
+ProjectB/src/*.o
+ProjectB/src/bootload
+ProjectB/src/kernel
+ProjectB/src/bochsout.txt
+ProjectB/backup
+ProjectB/src/bku
